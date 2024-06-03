@@ -26,10 +26,10 @@ Evaluate the model using both training and testing sets.
 
 # Results
 Performance Metrics:
-. Training Mean Squared Error: 11.382380840884545
-. Training R-squared: 0.974047815646115
-. Testing Mean Squared Error: 11.162677625774393
-. Testing R-squared: 0.9729358324515338
+1. Training Mean Squared Error: 11.382380840884545
+2. Training R-squared: 0.974047815646115
+3. Testing Mean Squared Error: 11.162677625774393
+4. Testing R-squared: 0.9729358324515338
 
 The high R-squared values indicate that the model explains a large portion of the variance in the sea level data.
 

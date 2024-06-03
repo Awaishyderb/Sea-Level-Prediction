@@ -12,5 +12,5 @@ Visualizing the results.
 Dataset
 The dataset used in this project contains two columns:
 
-Date: The date of the recorded sea level measurement.
-GMSL: The Global Mean Sea Level value.
+ Date: The date of the recorded sea level measurement.
+ GMSL: The Global Mean Sea Level value.

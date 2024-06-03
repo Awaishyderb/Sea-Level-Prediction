@@ -1,4 +1,4 @@
-# Sea Level Regression Model
+# Sea Level Regression Model by (AwaisHyder-2K22/CSE/29)
 This project involves creating a simple regression model to analyze and predict sea levels using historical data. The dataset contains dates and Global Mean Sea Level (GMSL) values. The model is capable of predicting future sea levels, with a particular focus on projections around the year 2050.
 
 # Project Overview

@@ -36,6 +36,6 @@ The high R-squared values indicate that the model explains a large portion of th
 # Visualization
 A plot is generated showing:
 
-Actual sea level data points.
-Predicted sea levels based on the training data.
-Future sea level predictions up to the year 2050.
+1. Actual sea level data points.
+2. Predicted sea levels based on the training data.
+3. Future sea level predictions up to the year 2050.
